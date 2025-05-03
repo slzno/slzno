@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis Solorzano</h1>
-<h3 align="center">Full-Stack Developer from Nicaragua.</h3>
+<h3 align="center">Sr. Full-Stack Developer from Nicaragua.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldavidsp" alt="ldavidsp" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slzno" alt="slzno" /></a> </p>
 
 - 🔭 I’m currently working on [Homeflow Technologies](https://homeflowapp.com)
 
@@ -14,7 +14,7 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ldavidsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ldavidsp" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/slzno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="slzno" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6860059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6860059" height="30" width="40" /></a>
 </p>
 <br/>
@@ -29,8 +29,8 @@
 <br/>
 
 <h1></h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldavidsp&show_icons=true&locale=en&layout=compact" alt="ldavidsp" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slzno&show_icons=true&locale=en&layout=compact" alt="slzno" /></p>
  <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ldavidsp&show_icons=true&locale=en" alt="ldavidsp" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ldavidsp&" alt="ldavidsp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=slzno&show_icons=true&locale=en" alt="slzno" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slzno&" alt="slzno" />
 </p>
