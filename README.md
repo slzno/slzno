@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slzno" alt="slzno" /></a> </p>
 
-- 🔭 I’m currently working on [Homeflow Technologies](https://homeflowapp.com)
+- 🔭 I’m currently working on [Pagorium Technologies](https://pagorium.com)
 
-- 👨‍💻 All of my projects are available at [https://homeflowapp.com](https://homeflowapp.com)
+- 👨‍💻 All of my projects are available at [https://pagorium.com](https://pagorium.com)
 
 - 📫 How to reach me **luisnic20@gmail.com**
 
